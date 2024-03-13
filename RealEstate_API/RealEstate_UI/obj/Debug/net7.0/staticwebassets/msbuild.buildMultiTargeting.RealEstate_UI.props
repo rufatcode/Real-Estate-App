@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/RealEstate_UI.props" />
+</Project>
