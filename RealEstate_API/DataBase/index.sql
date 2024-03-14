@@ -25,9 +25,9 @@ CREATE TABLE [dbo].[Slider]
     [Content] NVARCHAR(MAX) NOT NULL,
     [ImageUrl] NVARCHAR(MAX) NOT NULL,
     [IsDeleted] bit,
-    [CreatedAT] DATETIME NOT NULL,
-    [DeletedAT] DATETIME,
-    [UpdatedAT] DATETIME,
+    [CreatedAt] DATETIME NOT NULL,
+    [DeletedAt] DATETIME,
+    [UpdatedAt] DATETIME,
 
     -- Specify more columns here
 );
@@ -45,9 +45,9 @@ CREATE TABLE [dbo].[Category]
     [Id] INT NOT NULL PRIMARY KEY identity, -- Primary Key column
     [Name] NVARCHAR(300) NOT NULL,
     [IsDeleted] bit,
-    [CreatedAT] DATETIME NOT NULL ,
-    [DeletedAT] DATETIME,
-    [UpdatedAT] DATETIME,
+    [CreatedAt] DATETIME NOT NULL ,
+    [DeletedAt] DATETIME,
+    [UpdatedAt] DATETIME,
     -- Specify more columns here
 );
 GO
@@ -72,9 +72,9 @@ CREATE TABLE [dbo].[Product]
     [Address] NVARCHAR(MAX) NOT NULL,
     [VideoUrl] NVARCHAR(max),
     [IsDeleted] bit,
-    [CreatedAT] DATETIME NOT NULL,
-    [DeletedAT] DATETIME,
-    [UpdatedAT] DATETIME,
+    [CreatedAt] DATETIME NOT NULL,
+    [DeletedAt] DATETIME,
+    [UpdatedAt] DATETIME,
     
     -- Specify more columns here
 );
@@ -95,9 +95,9 @@ CREATE TABLE [dbo].[ProductImages]
     [ImageUrl] NVARCHAR(max) NOT NULL,
     [ProductId] int  References Product(id) NOT NULL,
     [IsDeleted] bit,
-    [CreatedAT] DATETIME NOT NULL,
-    [DeletedAT] DATETIME,
-    [UpdatedAT] DATETIME,
+    [CreatedAt] DATETIME NOT NULL,
+    [DeletedAt] DATETIME,
+    [UpdatedAt] DATETIME,
     -- Specify more columns here
 );
 GO
@@ -123,9 +123,9 @@ CREATE TABLE [dbo].[ProductDetail]
     [Garages] TINYINT NOT NULL,
     [BuiltYear] DATETIME NOT NULL,
     [IsDeleted] bit,
-    [CreatedAT] DATETIME NOT NULL,
-    [DeletedAT] DATETIME,
-    [UpdatedAT] DATETIME,
+    [CreatedAt] DATETIME NOT NULL,
+    [DeletedAt] DATETIME,
+    [UpdatedAt] DATETIME,
     -- Specify more columns here
 );
 GO
@@ -141,11 +141,11 @@ CREATE TABLE [dbo].[ProductAmenities]
 (
     [Id] INT NOT NULL PRIMARY KEY identity, -- Primary Key column
     [Name] NVARCHAR(max) NOT NULL,
-    [ProductId]int References Product(id) NOT NULL,
+    [ProductId]int References Product(Id) NOT NULL,
     [IsDeleted] bit,
-    [CreatedAT] DATETIME NOT NULL,
-    [DeletedAT] DATETIME,
-    [UpdatedAT] DATETIME,
+    [CreatedAt] DATETIME NOT NULL,
+    [DeletedAt] DATETIME,
+    [UpdatedAt] DATETIME,
     -- Specify more columns here
 );
 GO
@@ -165,9 +165,9 @@ CREATE TABLE [dbo].[Employees]
     [ImageUrl] NVARCHAR(max) NOT NULL,
     [PhoneNumber] NVARCHAR(100) NOT NULL,
     [IsDeleted] bit,
-    [CreatedAT] DATETIME NOT NULL,
-    [DeletedAT] DATETIME,
-    [UpdatedAT] DATETIME,
+    [CreatedAt] DATETIME NOT NULL,
+    [DeletedAt] DATETIME,
+    [UpdatedAt] DATETIME,
 );
 GO
 
@@ -183,9 +183,9 @@ CREATE TABLE [dbo].[Subscibe]
     [Id] INT NOT NULL PRIMARY KEY IDENTITY, -- Primary Key column
     [Email] NVARCHAR(100) NOT NULL,
     [IsDeleted] bit,
-    [CreatedAT] DATETIME NOT NULL,
-    [DeletedAT] DATETIME,
-    [UpdatedAT] DATETIME,
+    [CreatedAt] DATETIME NOT NULL,
+    [DeletedAt] DATETIME,
+    [UpdatedAt] DATETIME,
     -- Specify more columns here
 );
 GO
@@ -205,9 +205,9 @@ CREATE TABLE [dbo].[Setting]
     [Key] NVARCHAR(max) NOT NULL,
     [Value] NVARCHAR(max) NOT NULL,
     [IsDeleted] bit,
-    [CreatedAT] DATETIME NOT NULL,
-    [DeletedAT] DATETIME,
-    [UpdatedAT] DATETIME,
+    [CreatedAt] DATETIME NOT NULL,
+    [DeletedAt] DATETIME,
+    [UpdatedAt] DATETIME,
     -- Specify more columns here
 );
 GO
@@ -226,9 +226,39 @@ CREATE TABLE [dbo].[Contact]
     [Message] NVARCHAR(max) NOT NULL,
     [IsDeleted] bit,
     [IsResponded] bit,
-    [CreatedAT] DATETIME NOT NULL,
-    [DeletedAT] DATETIME,
-    [UpdatedAT] DATETIME,
+    [CreatedAt] DATETIME NOT NULL,
+    [DeletedAt] DATETIME,
+    [UpdatedAt] DATETIME,
     -- Specify more columns here
 );
 GO
+
+-- Select rows from a Table or View '[Category]' in schema '[dbo]'
+SELECT * FROM [dbo].[Category]
+GO
+
+-- Insert rows into table 'Category' in schema '[dbo]'
+INSERT INTO [dbo].[Category]
+( -- Columns to insert data into
+ [Name], [IsDeleted], [CreatedAt]
+)
+VALUES
+( -- First row: values for the columns in the list above
+ 'Villa', 0, GETDATE()
+),
+( -- First row: values for the columns in the list above
+ ' Apartment', 0, GETDATE()
+),
+( -- First row: values for the columns in the list above
+ 'Private house', 0, GETDATE()
+),
+( -- First row: values for the columns in the list above
+ 'Building', 0, GETDATE()
+),
+( -- First row: values for the columns in the list above
+ 'Shop', 0, GETDATE()
+)
+
+-- Add more rows here
+GO
+

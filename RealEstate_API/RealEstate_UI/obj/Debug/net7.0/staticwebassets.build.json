@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hdCID4m4bKEuKqCwvTamXsp/ZtXvDEJ8bHOrmsQaaTU=",
+  "Hash": "52R3SEHQ4ii+3gFiraIdRCBXXBqVXiqiuIduY3pjDv0=",
   "Source": "RealEstate_UI",
   "BasePath": "_content/RealEstate_UI",
   "Mode": "Default",
@@ -187,12 +187,12 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/404.html",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/404.html",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/404.html",
+      "RelativePath": "dashmin/404.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/404.html"
+      "OriginalItemSpec": "wwwroot/dashmin/404.html"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/blank.html",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/blank.html",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/blank.html",
+      "RelativePath": "dashmin/blank.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/blank.html"
+      "OriginalItemSpec": "wwwroot/dashmin/blank.html"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/bootstrap-admin-template-free.jpg",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/bootstrap-admin-template-free.jpg",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/bootstrap-admin-template-free.jpg",
+      "RelativePath": "dashmin/bootstrap-admin-template-free.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/bootstrap-admin-template-free.jpg"
+      "OriginalItemSpec": "wwwroot/dashmin/bootstrap-admin-template-free.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/button.html",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/button.html",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/button.html",
+      "RelativePath": "dashmin/button.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/button.html"
+      "OriginalItemSpec": "wwwroot/dashmin/button.html"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/chart.html",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/chart.html",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/chart.html",
+      "RelativePath": "dashmin/chart.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/chart.html"
+      "OriginalItemSpec": "wwwroot/dashmin/chart.html"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/css/bootstrap.min.css",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/css/bootstrap.min.css",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/css/bootstrap.min.css",
+      "RelativePath": "dashmin/css/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/css/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/dashmin/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/css/style.css",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/css/style.css",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/css/style.css",
+      "RelativePath": "dashmin/css/style.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/css/style.css"
+      "OriginalItemSpec": "wwwroot/dashmin/css/style.css"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/element.html",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/element.html",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/element.html",
+      "RelativePath": "dashmin/element.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,15 +320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/element.html"
+      "OriginalItemSpec": "wwwroot/dashmin/element.html"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/form.html",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/form.html",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/form.html",
+      "RelativePath": "dashmin/form.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/form.html"
+      "OriginalItemSpec": "wwwroot/dashmin/form.html"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/img/testimonial-1.jpg",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/img/testimonial-1.jpg",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/img/testimonial-1.jpg",
+      "RelativePath": "dashmin/img/testimonial-1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,15 +354,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/img/testimonial-1.jpg"
+      "OriginalItemSpec": "wwwroot/dashmin/img/testimonial-1.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/img/testimonial-2.jpg",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/img/testimonial-2.jpg",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/img/testimonial-2.jpg",
+      "RelativePath": "dashmin/img/testimonial-2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/img/testimonial-2.jpg"
+      "OriginalItemSpec": "wwwroot/dashmin/img/testimonial-2.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/img/user.jpg",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/img/user.jpg",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/img/user.jpg",
+      "RelativePath": "dashmin/img/user.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,15 +388,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/img/user.jpg"
+      "OriginalItemSpec": "wwwroot/dashmin/img/user.jpg"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/index.html",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/index.html",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/index.html",
+      "RelativePath": "dashmin/index.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,15 +405,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/index.html"
+      "OriginalItemSpec": "wwwroot/dashmin/index.html"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/js/main.js",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/js/main.js",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/js/main.js",
+      "RelativePath": "dashmin/js/main.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -422,15 +422,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/js/main.js"
+      "OriginalItemSpec": "wwwroot/dashmin/js/main.js"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/chart/chart.min.js",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/chart/chart.min.js",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/chart/chart.min.js",
+      "RelativePath": "dashmin/lib/chart/chart.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -439,15 +439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/chart/chart.min.js"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/chart/chart.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/easing/easing.js",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/easing/easing.js",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/easing/easing.js",
+      "RelativePath": "dashmin/lib/easing/easing.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -456,15 +456,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/easing/easing.js"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/easing/easing.js"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/easing/easing.min.js",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/easing/easing.min.js",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/easing/easing.min.js",
+      "RelativePath": "dashmin/lib/easing/easing.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -473,15 +473,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/easing/easing.min.js"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/easing/easing.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/owlcarousel/assets/ajax-loader.gif",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/owlcarousel/assets/ajax-loader.gif",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/owlcarousel/assets/ajax-loader.gif",
+      "RelativePath": "dashmin/lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -490,15 +490,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/owlcarousel/assets/ajax-loader.gif"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/owlcarousel/assets/ajax-loader.gif"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/owlcarousel/assets/owl.carousel.css",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/owlcarousel/assets/owl.carousel.css",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/owlcarousel/assets/owl.carousel.css",
+      "RelativePath": "dashmin/lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -507,15 +507,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/owlcarousel/assets/owl.carousel.css"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/owlcarousel/assets/owl.carousel.css"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/owlcarousel/assets/owl.carousel.min.css",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/owlcarousel/assets/owl.carousel.min.css",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/owlcarousel/assets/owl.carousel.min.css",
+      "RelativePath": "dashmin/lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -524,15 +524,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/owlcarousel/assets/owl.carousel.min.css"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/owlcarousel/assets/owl.carousel.min.css"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/owlcarousel/assets/owl.theme.default.css",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/owlcarousel/assets/owl.theme.default.css",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/owlcarousel/assets/owl.theme.default.css",
+      "RelativePath": "dashmin/lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -541,15 +541,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/owlcarousel/assets/owl.theme.default.css"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/owlcarousel/assets/owl.theme.default.css"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/owlcarousel/assets/owl.theme.default.min.css",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "RelativePath": "dashmin/lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -558,15 +558,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/owlcarousel/assets/owl.theme.default.min.css"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/owlcarousel/assets/owl.theme.default.min.css"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/owlcarousel/assets/owl.theme.green.css",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/owlcarousel/assets/owl.theme.green.css",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/owlcarousel/assets/owl.theme.green.css",
+      "RelativePath": "dashmin/lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -575,15 +575,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/owlcarousel/assets/owl.theme.green.css"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/owlcarousel/assets/owl.theme.green.css"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/owlcarousel/assets/owl.theme.green.min.css",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "RelativePath": "dashmin/lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -592,15 +592,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/owlcarousel/assets/owl.theme.green.min.css"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/owlcarousel/assets/owl.theme.green.min.css"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/owlcarousel/assets/owl.video.play.png",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/owlcarousel/assets/owl.video.play.png",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/owlcarousel/assets/owl.video.play.png",
+      "RelativePath": "dashmin/lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -609,15 +609,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/owlcarousel/assets/owl.video.play.png"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/owlcarousel/assets/owl.video.play.png"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/owlcarousel/LICENSE",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/owlcarousel/LICENSE",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/owlcarousel/LICENSE",
+      "RelativePath": "dashmin/lib/owlcarousel/LICENSE",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -626,15 +626,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/owlcarousel/LICENSE"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/owlcarousel/LICENSE"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/owlcarousel/owl.carousel.js",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/owlcarousel/owl.carousel.js",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/owlcarousel/owl.carousel.js",
+      "RelativePath": "dashmin/lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -643,15 +643,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/owlcarousel/owl.carousel.js"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/owlcarousel/owl.carousel.js"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/owlcarousel/owl.carousel.min.js",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/owlcarousel/owl.carousel.min.js",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/owlcarousel/owl.carousel.min.js",
+      "RelativePath": "dashmin/lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -660,15 +660,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/owlcarousel/owl.carousel.min.js"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/owlcarousel/owl.carousel.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
+      "RelativePath": "dashmin/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -677,15 +677,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/tempusdominus/css/tempusdominus-bootstrap-4.css"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/tempusdominus/css/tempusdominus-bootstrap-4.css"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
+      "RelativePath": "dashmin/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -694,15 +694,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/tempusdominus/js/moment-timezone.min.js",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/tempusdominus/js/moment-timezone.min.js",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/tempusdominus/js/moment-timezone.min.js",
+      "RelativePath": "dashmin/lib/tempusdominus/js/moment-timezone.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -711,15 +711,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/tempusdominus/js/moment-timezone.min.js"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/tempusdominus/js/moment-timezone.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/tempusdominus/js/moment.min.js",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/tempusdominus/js/moment.min.js",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/tempusdominus/js/moment.min.js",
+      "RelativePath": "dashmin/lib/tempusdominus/js/moment.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -728,15 +728,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/tempusdominus/js/moment.min.js"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/tempusdominus/js/moment.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
+      "RelativePath": "dashmin/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -745,15 +745,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/tempusdominus/js/tempusdominus-bootstrap-4.js"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/tempusdominus/js/tempusdominus-bootstrap-4.js"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
+      "RelativePath": "dashmin/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -762,15 +762,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/waypoints/links.php",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/waypoints/links.php",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/waypoints/links.php",
+      "RelativePath": "dashmin/lib/waypoints/links.php",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -779,15 +779,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/waypoints/links.php"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/waypoints/links.php"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/lib/waypoints/waypoints.min.js",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/lib/waypoints/waypoints.min.js",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/lib/waypoints/waypoints.min.js",
+      "RelativePath": "dashmin/lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -796,15 +796,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/lib/waypoints/waypoints.min.js"
+      "OriginalItemSpec": "wwwroot/dashmin/lib/waypoints/waypoints.min.js"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/LICENSE.txt",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/LICENSE.txt",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/LICENSE.txt",
+      "RelativePath": "dashmin/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -813,15 +813,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/dashmin/LICENSE.txt"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/READ-ME.txt",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/READ-ME.txt",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/READ-ME.txt",
+      "RelativePath": "dashmin/READ-ME.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -830,15 +830,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/READ-ME.txt"
+      "OriginalItemSpec": "wwwroot/dashmin/READ-ME.txt"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap.scss",
+      "RelativePath": "dashmin/scss/bootstrap.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -847,15 +847,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_accordion.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_accordion.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_accordion.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_accordion.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -864,15 +864,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_accordion.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_accordion.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_alert.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_alert.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_alert.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_alert.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -881,15 +881,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_alert.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_alert.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_badge.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_badge.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_badge.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_badge.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -898,15 +898,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_badge.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_badge.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_breadcrumb.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_breadcrumb.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_breadcrumb.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_breadcrumb.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -915,15 +915,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_breadcrumb.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_breadcrumb.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_button-group.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_button-group.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_button-group.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_button-group.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -932,15 +932,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_button-group.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_button-group.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_buttons.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_buttons.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_buttons.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_buttons.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -949,15 +949,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_buttons.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_buttons.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_card.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_card.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_card.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_card.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -966,15 +966,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_card.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_card.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_carousel.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_carousel.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_carousel.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_carousel.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -983,15 +983,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_carousel.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_carousel.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_close.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_close.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_close.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_close.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1000,15 +1000,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_close.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_close.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_containers.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_containers.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_containers.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_containers.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1017,15 +1017,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_containers.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_containers.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_dropdown.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_dropdown.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_dropdown.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_dropdown.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1034,15 +1034,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_dropdown.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_dropdown.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_forms.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_forms.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_forms.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_forms.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1051,15 +1051,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_forms.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_forms.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_functions.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_functions.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_functions.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_functions.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1068,15 +1068,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_functions.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_functions.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_grid.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_grid.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_grid.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_grid.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1085,15 +1085,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_grid.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_grid.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_helpers.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_helpers.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_helpers.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_helpers.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1102,15 +1102,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_helpers.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_helpers.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_images.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_images.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_images.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_images.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1119,15 +1119,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_images.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_images.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_list-group.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_list-group.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_list-group.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_list-group.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,15 +1136,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_list-group.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_list-group.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_mixins.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_mixins.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_mixins.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_mixins.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,15 +1153,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_mixins.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_mixins.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_modal.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_modal.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_modal.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_modal.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1170,15 +1170,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_modal.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_modal.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_nav.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_nav.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_nav.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_nav.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1187,15 +1187,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_nav.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_nav.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_navbar.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_navbar.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_navbar.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_navbar.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1204,15 +1204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_navbar.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_navbar.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_offcanvas.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_offcanvas.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_offcanvas.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_offcanvas.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1221,15 +1221,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_offcanvas.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_offcanvas.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_pagination.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_pagination.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_pagination.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_pagination.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1238,15 +1238,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_pagination.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_pagination.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_popover.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_popover.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_popover.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_popover.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1255,15 +1255,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_popover.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_popover.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_progress.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_progress.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_progress.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_progress.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1272,15 +1272,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_progress.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_progress.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_reboot.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_reboot.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_reboot.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_reboot.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1289,15 +1289,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_reboot.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_reboot.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_root.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_root.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_root.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_root.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,15 +1306,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_root.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_root.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_spinners.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_spinners.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_spinners.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_spinners.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1323,15 +1323,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_spinners.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_spinners.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_tables.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_tables.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_tables.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_tables.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1340,15 +1340,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_tables.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_tables.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_toasts.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_toasts.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_toasts.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_toasts.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1357,15 +1357,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_toasts.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_toasts.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_tooltip.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_tooltip.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_tooltip.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_tooltip.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1374,15 +1374,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_tooltip.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_tooltip.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_transitions.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_transitions.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_transitions.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_transitions.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1391,15 +1391,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_transitions.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_transitions.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_type.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_type.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_type.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_type.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1408,15 +1408,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_type.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_type.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_utilities.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_utilities.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_utilities.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_utilities.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1425,15 +1425,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_utilities.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_utilities.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_variables.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/_variables.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/_variables.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/_variables.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1442,15 +1442,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/_variables.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/_variables.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/bootstrap-grid.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/bootstrap-grid.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/bootstrap-grid.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/bootstrap-grid.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1459,15 +1459,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/bootstrap-grid.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/bootstrap-grid.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/bootstrap-reboot.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/bootstrap-reboot.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/bootstrap-reboot.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/bootstrap-reboot.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1476,15 +1476,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/bootstrap-reboot.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/bootstrap-reboot.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/bootstrap-utilities.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/bootstrap-utilities.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/bootstrap-utilities.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/bootstrap-utilities.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1493,15 +1493,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/bootstrap-utilities.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/bootstrap-utilities.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/bootstrap.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/bootstrap.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/bootstrap.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/bootstrap.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1510,15 +1510,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/bootstrap.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/bootstrap.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_floating-labels.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/forms/_floating-labels.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/forms/_floating-labels.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/forms/_floating-labels.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1527,15 +1527,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_floating-labels.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/forms/_floating-labels.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_form-check.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/forms/_form-check.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/forms/_form-check.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/forms/_form-check.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1544,15 +1544,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_form-check.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/forms/_form-check.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_form-control.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/forms/_form-control.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/forms/_form-control.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/forms/_form-control.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1561,15 +1561,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_form-control.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/forms/_form-control.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_form-range.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/forms/_form-range.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/forms/_form-range.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/forms/_form-range.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1578,15 +1578,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_form-range.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/forms/_form-range.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_form-select.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/forms/_form-select.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/forms/_form-select.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/forms/_form-select.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1595,15 +1595,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_form-select.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/forms/_form-select.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_form-text.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/forms/_form-text.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/forms/_form-text.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/forms/_form-text.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1612,15 +1612,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_form-text.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/forms/_form-text.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_input-group.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/forms/_input-group.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/forms/_input-group.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/forms/_input-group.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1629,15 +1629,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_input-group.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/forms/_input-group.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_labels.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/forms/_labels.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/forms/_labels.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/forms/_labels.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1646,15 +1646,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_labels.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/forms/_labels.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_validation.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/forms/_validation.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/forms/_validation.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/forms/_validation.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1663,15 +1663,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/forms/_validation.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/forms/_validation.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/helpers/_clearfix.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/helpers/_clearfix.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/helpers/_clearfix.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/helpers/_clearfix.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1680,15 +1680,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/helpers/_clearfix.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/helpers/_clearfix.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/helpers/_colored-links.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/helpers/_colored-links.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/helpers/_colored-links.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/helpers/_colored-links.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1697,15 +1697,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/helpers/_colored-links.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/helpers/_colored-links.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/helpers/_position.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/helpers/_position.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/helpers/_position.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/helpers/_position.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1714,15 +1714,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/helpers/_position.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/helpers/_position.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/helpers/_ratio.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/helpers/_ratio.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/helpers/_ratio.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/helpers/_ratio.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1731,15 +1731,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/helpers/_ratio.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/helpers/_ratio.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/helpers/_stretched-link.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/helpers/_stretched-link.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/helpers/_stretched-link.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/helpers/_stretched-link.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1748,15 +1748,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/helpers/_stretched-link.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/helpers/_stretched-link.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/helpers/_text-truncation.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/helpers/_text-truncation.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/helpers/_text-truncation.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/helpers/_text-truncation.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1765,15 +1765,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/helpers/_text-truncation.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/helpers/_text-truncation.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/helpers/_visually-hidden.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/helpers/_visually-hidden.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/helpers/_visually-hidden.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/helpers/_visually-hidden.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1782,15 +1782,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/helpers/_visually-hidden.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/helpers/_visually-hidden.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_alert.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_alert.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_alert.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_alert.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1799,15 +1799,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_alert.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_alert.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_border-radius.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_border-radius.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_border-radius.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_border-radius.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1816,15 +1816,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_border-radius.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_border-radius.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_box-shadow.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_box-shadow.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_box-shadow.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_box-shadow.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1833,15 +1833,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_box-shadow.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_box-shadow.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_breakpoints.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_breakpoints.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_breakpoints.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_breakpoints.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1850,15 +1850,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_breakpoints.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_breakpoints.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_buttons.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_buttons.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_buttons.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_buttons.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1867,15 +1867,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_buttons.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_buttons.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_caret.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_caret.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_caret.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_caret.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1884,15 +1884,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_caret.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_caret.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_clearfix.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_clearfix.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_clearfix.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_clearfix.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1901,15 +1901,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_clearfix.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_clearfix.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_color-scheme.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_color-scheme.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_color-scheme.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_color-scheme.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1918,15 +1918,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_color-scheme.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_color-scheme.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_container.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_container.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_container.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_container.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1935,15 +1935,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_container.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_container.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_deprecate.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_deprecate.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_deprecate.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_deprecate.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1952,15 +1952,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_deprecate.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_deprecate.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_forms.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_forms.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_forms.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_forms.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1969,15 +1969,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_forms.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_forms.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_gradients.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_gradients.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_gradients.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_gradients.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1986,15 +1986,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_gradients.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_gradients.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_grid.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_grid.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_grid.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_grid.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2003,15 +2003,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_grid.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_grid.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_image.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_image.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_image.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_image.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2020,15 +2020,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_image.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_image.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_list-group.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_list-group.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_list-group.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_list-group.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2037,15 +2037,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_list-group.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_list-group.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_lists.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_lists.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_lists.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_lists.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2054,15 +2054,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_lists.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_lists.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_pagination.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_pagination.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_pagination.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_pagination.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2071,15 +2071,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_pagination.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_pagination.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_reset-text.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_reset-text.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_reset-text.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_reset-text.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2088,15 +2088,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_reset-text.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_reset-text.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_resize.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_resize.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_resize.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_resize.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2105,15 +2105,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_resize.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_resize.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_table-variants.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_table-variants.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_table-variants.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_table-variants.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2122,15 +2122,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_table-variants.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_table-variants.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_text-truncate.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_text-truncate.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_text-truncate.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_text-truncate.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2139,15 +2139,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_text-truncate.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_text-truncate.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_transition.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_transition.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_transition.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_transition.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2156,15 +2156,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_transition.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_transition.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_utilities.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_utilities.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_utilities.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_utilities.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2173,15 +2173,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_utilities.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_utilities.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_visually-hidden.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/mixins/_visually-hidden.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/mixins/_visually-hidden.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/mixins/_visually-hidden.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2190,15 +2190,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/mixins/_visually-hidden.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/mixins/_visually-hidden.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/utilities/_api.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/utilities/_api.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/utilities/_api.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/utilities/_api.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2207,15 +2207,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/utilities/_api.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/utilities/_api.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/scss/bootstrap/scss/vendor/_rfs.scss",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/scss/bootstrap/scss/vendor/_rfs.scss",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/scss/bootstrap/scss/vendor/_rfs.scss",
+      "RelativePath": "dashmin/scss/bootstrap/scss/vendor/_rfs.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2224,15 +2224,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/scss/bootstrap/scss/vendor/_rfs.scss"
+      "OriginalItemSpec": "wwwroot/dashmin/scss/bootstrap/scss/vendor/_rfs.scss"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/signin.html",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/signin.html",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/signin.html",
+      "RelativePath": "dashmin/signin.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2241,15 +2241,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/signin.html"
+      "OriginalItemSpec": "wwwroot/dashmin/signin.html"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/signup.html",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/signup.html",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/signup.html",
+      "RelativePath": "dashmin/signup.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2258,15 +2258,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/signup.html"
+      "OriginalItemSpec": "wwwroot/dashmin/signup.html"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/table.html",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/table.html",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/table.html",
+      "RelativePath": "dashmin/table.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2275,15 +2275,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/table.html"
+      "OriginalItemSpec": "wwwroot/dashmin/table.html"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/typography.html",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/typography.html",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/typography.html",
+      "RelativePath": "dashmin/typography.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2292,15 +2292,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/typography.html"
+      "OriginalItemSpec": "wwwroot/dashmin/typography.html"
     },
     {
-      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin-1.0.0/widget.html",
+      "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/dashmin/widget.html",
       "SourceId": "RealEstate_UI",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/",
       "BasePath": "_content/RealEstate_UI",
-      "RelativePath": "dashmin-1.0.0/widget.html",
+      "RelativePath": "dashmin/widget.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2309,7 +2309,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/dashmin-1.0.0/widget.html"
+      "OriginalItemSpec": "wwwroot/dashmin/widget.html"
     },
     {
       "Identity": "/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/wwwroot/favicon.ico",

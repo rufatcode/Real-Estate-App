@@ -21,7 +21,14 @@ app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
-app.MapDefaultControllerRoute();
+app.MapControllerRoute(
+    name: "Areas",
+    pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
+    );
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=home}/{action=index}/{id?}"
+    );
 app.MapRazorPages();
 
 app.Run();

@@ -16,6 +16,7 @@
     <None Remove="Views\Home\" />
     <None Remove="Views\About\" />
     <None Remove="Views\Contact\" />
+    <None Remove="Areas\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\" />
@@ -25,5 +26,6 @@
     <Folder Include="Views\Home\" />
     <Folder Include="Views\About\" />
     <Folder Include="Views\Contact\" />
+    <Folder Include="Areas\" />
   </ItemGroup>
 </Project>

@@ -11,12 +11,24 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.16" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.0" />
+    <PackageReference Include="Dapper" Version="2.1.35" />
   </ItemGroup>
 
   <ItemGroup>
     <None Remove="Controllers\" />
+    <None Remove="DAL\" />
+    <None Remove="Dtos\" />
+    <None Remove="Dtos\CategoryDtos\" />
+    <None Remove="Repositories\" />
+    <None Remove="Repositories\CategoryRepository\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
+    <Folder Include="DAL\" />
+    <Folder Include="Dtos\" />
+    <Folder Include="Dtos\CategoryDtos\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Repositories\CategoryRepository\" />
   </ItemGroup>
 </Project>
