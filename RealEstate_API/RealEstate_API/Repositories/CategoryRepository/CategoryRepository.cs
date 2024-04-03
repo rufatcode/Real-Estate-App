@@ -28,10 +28,12 @@ namespace RealEstate_API.Repositories.CategoryRepository
 
         public async Task Delete(int id)
         {
-            string query = "delete from category where id=@categoryId";
+            string query = "update  category set isDeleted=@isDeleted,deletedAt=@deletedAt where id=@categoryId";
             DynamicParameters parameters = new();
             parameters.Add("@categoryId", id);
-            using(var connection = _dataContext.CreateConnection())
+            parameters.Add("@isDeleted", true);
+            parameters.Add("@deletedAt", DateTime.Now);
+            using (var connection = _dataContext.CreateConnection())
             {
                 await connection.ExecuteAsync(query, parameters);
             }
@@ -60,12 +62,13 @@ namespace RealEstate_API.Repositories.CategoryRepository
 
         public async Task Update(UpdateCategoryDto updateCategoryDto)
         {
-            string query = "update category set name=@categoryName,isDeleted=@categoryStatus,deletedAt=@deletedAt where id=@categoryId";
+            string query = "update category set name=@categoryName,isDeleted=@categoryStatus,deletedAt=@deletedAt,UpdatedAt=@UpdatedAt where id=@categoryId";
             DynamicParameters parameters = new();
             parameters.Add("@categoryName", updateCategoryDto.Name);
             parameters.Add("@categoryStatus", updateCategoryDto.IsDeleted);
             parameters.Add("@categoryId", updateCategoryDto.Id);
             parameters.Add("@deletedAt", updateCategoryDto.IsDeleted?DateTime.Now:null);
+            parameters.Add("@UpdatedAt", DateTime.Now);
             using (var connection = _dataContext.CreateConnection())
             {
                 await connection.ExecuteAsync(query, parameters);

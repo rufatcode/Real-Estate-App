@@ -2,6 +2,8 @@
 -- Connect to the 'master' database to run this snippet
 USE master
 GO
+
+use RealEstateDB
 -- Create the new database if it does not exist already
 IF NOT EXISTS (
     SELECT [name]
@@ -10,7 +12,7 @@ IF NOT EXISTS (
 )
 CREATE DATABASE RealEstateDB
 GO
-
+use RealEstateDB
 
 -- Create a new table called '[Slider]' in schema '[dbo]'
 -- Drop the table if it already exists
@@ -79,7 +81,12 @@ CREATE TABLE [dbo].[Product]
     -- Specify more columns here
 );
 GO
-
+ALTER TABLE Product Add  CategoryId int
+alter table Product add FOREIGN KEY(CategoryId)  REFERENCES Category(id)
+-- Add a new column '[NewColumnName]' to table '[TableName]' in schema '[dbo]'
+ALTER TABLE [dbo].[TableName]
+    ADD [NewColumnName] /*new_column_name*/ int /*new_column_datatype*/ NULL /*new_column_nullability*/
+GO
 
 Alter TABLE Product Add CONSTRAINT  Price CHECK(Price>0)
 
@@ -170,7 +177,10 @@ CREATE TABLE [dbo].[Employees]
     [UpdatedAt] DATETIME,
 );
 GO
-
+ -- Add a new column '[NewColumnName]' to table '[TableName]' in schema '[dbo]'
+ALTER TABLE [dbo].[Employees]
+    ADD [PublicId] /*new_column_name*/ NVARCHAR(300) /*new_column_datatype*/  not NULL /*new_column_nullability*/UNIQUE
+GO
 
 -- Create a new table called '[Subscibe]' in schema '[dbo]'
 -- Drop the table if it already exists
@@ -220,7 +230,7 @@ GO
 -- Create the table in the specified schema
 CREATE TABLE [dbo].[Contact]
 (
-    [Id] INT NOT NULL PRIMARY KEY, -- Primary Key column
+    [Id] INT NOT NULL PRIMARY KEY IDENTITY, -- Primary Key column
     [Name] NVARCHAR(300) NOT NULL,
     [Email] NVARCHAR(300) NOT NULL,
     [Message] NVARCHAR(max) NOT NULL,
@@ -261,4 +271,10 @@ VALUES
 
 -- Add more rows here
 GO
+
+select*from  Employees
+
+SELECT*FROM Setting
+
+
 

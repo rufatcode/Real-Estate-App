@@ -1,4 +1,3 @@
-/Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/bin/Debug/net7.0/appsettings.Development.json
 /Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/bin/Debug/net7.0/appsettings.json
 /Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/bin/Debug/net7.0/RealEstate_UI.staticwebassets.runtime.json
 /Volumes/Mac/AspNet/RealEstateApp/RealEstate_API/RealEstate_UI/bin/Debug/net7.0/RealEstate_UI

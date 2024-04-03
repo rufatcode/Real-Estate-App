@@ -17,6 +17,13 @@
     <None Remove="Views\About\" />
     <None Remove="Views\Contact\" />
     <None Remove="Areas\" />
+    <None Remove="ViewModels\" />
+    <None Remove="ViewModels\SettingVM\" />
+    <None Remove="ViewComponents\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\Header\" />
+    <None Remove="Views\Shared\Components\Footer\" />
+    <None Remove="ViewModels\EmployeeVM\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\" />
@@ -27,5 +34,15 @@
     <Folder Include="Views\About\" />
     <Folder Include="Views\Contact\" />
     <Folder Include="Areas\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="ViewModels\SettingVM\" />
+    <Folder Include="ViewComponents\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\Header\" />
+    <Folder Include="Views\Shared\Components\Footer\" />
+    <Folder Include="ViewModels\EmployeeVM\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Net.Http" Version="4.3.4" />
   </ItemGroup>
 </Project>

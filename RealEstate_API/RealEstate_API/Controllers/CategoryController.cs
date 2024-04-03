@@ -32,6 +32,7 @@ namespace RealEstate_API.Controllers
         [HttpPost]
         public async Task<IActionResult>Post(CreateCategoryDto createCategoryDto)
         {
+            if (!ModelState.IsValid) return BadRequest(ModelState);
             await _categoryRepository.Create(createCategoryDto);
             return Ok($"{createCategoryDto.Name} successfully created");
         }
@@ -44,6 +45,7 @@ namespace RealEstate_API.Controllers
         [HttpPut]
         public async Task<IActionResult>Put(UpdateCategoryDto updateCategoryDto)
         {
+            if (!ModelState.IsValid) return BadRequest(ModelState);
             await _categoryRepository.Update(updateCategoryDto);
             return Ok($"{updateCategoryDto.Name} successfully updated");
         }

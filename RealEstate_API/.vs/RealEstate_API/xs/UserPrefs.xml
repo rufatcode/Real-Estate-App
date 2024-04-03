@@ -1,13 +1,28 @@
-﻿<Properties StartupConfiguration="{2BBB774D-AA18-4DD0-A29F-799AF640A233}|https">
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{2BBB774D-AA18-4DD0-A29F-799AF640A233}" ItemName="RealEstate_API" ConfigurationId="https" />
+        <StartupItem ItemId="{F0DB26B0-3DED-4D53-A224-1F31D65A7F17}" ItemName="RealEstate_UI" ConfigurationId="https" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.RealEstate__UI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.RealEstate__API PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.RealEstate__UI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RealEstate_UI/Controllers/AboutController.cs">
+    <Files>
+      <File FileName="RealEstate_API/ServiceRegistration.cs" Line="31" Column="120" />
+      <File FileName="RealEstate_API/DAL/DataContext.cs" Line="16" Column="1" />
+      <File FileName="RealEstate_UI/Controllers/HomeController.cs" Line="26" Column="101" />
+      <File FileName="RealEstate_UI/Views/About/Index.cshtml" Line="135" Column="1" />
+      <File FileName="RealEstate_UI/ViewModels/AboutVM.cs" Line="14" Column="24" />
+      <File FileName="RealEstate_UI/Controllers/AboutController.cs" Line="29" Column="13" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -16,16 +31,23 @@
               <Node name="Controllers" expanded="True" />
               <Node name="DAL" expanded="True" />
               <Node name="Dtos" expanded="True">
-                <Node name="CategoryDtos" expanded="True" />
+                <Node name="EmployeDtos" expanded="True" />
               </Node>
               <Node name="Repositories" expanded="True">
-                <Node name="CategoryRepository" expanded="True">
-                  <Node name="CategoryRepository.cs" selected="True" />
-                </Node>
+                <Node name="EmployeRepository" expanded="True" />
+                <Node name="SettingRepository" expanded="True" />
               </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="Validators" expanded="True" />
             </Node>
             <Node name="RealEstate_UI">
-              <Node name="Properties" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="AboutController.cs" selected="True" />
+              </Node>
+              <Node name="ViewComponents" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="SettingVM" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>

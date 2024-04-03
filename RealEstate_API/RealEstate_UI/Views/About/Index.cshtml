@@ -1,6 +1,8 @@
 ﻿@{
     ViewBag.Title = "About";
+    int count = 0;
 }
+@model AboutVM
 @section CostumStyle{
 
 }
@@ -26,22 +28,18 @@
         <div class="container py-lg-5 py-md-4 py-2">
             <div class="row">
                 <div class="col-lg-5 pr-lg-0">
-                    <div class="w3l-left-img2">
+                    <div style="background-image:url(@Model.SettingVMs.Find(s=>s.Key=="AboutImage").Value" class="w3l-left-img2">
                     </div>
                 </div>
                 <div class="col-lg-7 pl-lg-0">
                     <div class="w3l-right-info">
                         <h6 class="title-small">About us</h6>
-                        <h3 class="title-big">Our long-standing experience</h3>
+                        <h3 class="title-big">@Model.SettingVMs.Find(s=>s.Key== "AboutName").Value</h3>
                         <h5 class="mt-4">
-                            We have over 15 year experience, Over 20,000 people work for us in more than 70
-                            countries all over the world.
-                            Lorem ipsum viverra feugiat dolor sit amet.
+                            @Model.SettingVMs.Find(s=>s.Key== "AboutInfo").Value
                         </h5>
                         <p class="mt-4">
-                            Viverra feugiat. Pellen tesque libero ut justo,
-                            ultrices in ligula. Semper at tempufddfel lorem ipsum. Lorem ipsum viverra feugiat dolor sit
-                            amet primis in faucibus orci.
+                           @Model.SettingVMs.Find(s=>s.Key=="AboutContent").Value
                         </p>
                         <a href="#small-dialog1" class="popup-with-zoom-anim play-view d-block mt-md-5 mt-4">
                             <span class="video-play-icon">
@@ -59,22 +57,22 @@
                 <div class="col-lg-4 col-md-6 grids-feature">
                     <div class="area-box">
                         <span class="fa fa-home"></span>
-                        <h4><a href="#feature" class="title-head">Guidance you need</a></h4>
-                        <p>Vivamus a ligula quam tesque et libero ut justo, ultrices in.  Ut eu leo non. Duis sed et dolor amet.</p>
+                        <h4><a href="#feature" class="title-head">@Model.SettingVMs.Find(s=>s.Key== "HomeName").Value</a></h4>
+                        <p>@Model.SettingVMs.Find(s => s.Key == "HomeInfo").Value</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 grids-feature mt-md-0 mt-4">
                     <div class="area-box">
                         <span class="fa fa-search-plus"></span>
-                        <h4><a href="#feature" class="title-head">Search that feels familiar</a></h4>
-                        <p>Vivamus a ligula quam tesque et libero ut justo, ultrices in. Ut eu leo non. Duis sed dolor et amet.</p>
+                        <h4><a href="#feature" class="title-head">@Model.SettingVMs.Find(s => s.Key == "SearchName").Value</a></h4>
+                        <p>@Model.SettingVMs.Find(s => s.Key == "SearchInfo").Value</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 grids-feature mt-lg-0 mt-4">
                     <div class="area-box">
                         <span class="fa fa-dollar"></span>
-                        <h4><a href="#feature" class="title-head">Premium values</a></h4>
-                        <p>Vivamus a ligula quam tesque et libero ut justo, ultrices in. Ut eu leo non. Duis sed dolor et amet.</p>
+                        <h4><a href="#feature" class="title-head">@Model.SettingVMs.Find(s => s.Key == "PremiumName").Value</a></h4>
+                        <p>@Model.SettingVMs.Find(s => s.Key == "PremiumInfo").Value</p>
                     </div>
                 </div>
             </div>
@@ -85,21 +83,19 @@
             <div class="container py-lg-5 py-md-4 py-2">
                 <div class="row">
                     <div class="col-lg-6 left-wthree-img">
-                        <img src="~/starter/assets/images/about.jpg" alt="" class="img-fluid radius-image" />
+                        <img src=@Model.SettingVMs.Find(s=>s.Key=="WhyUsImage").Value alt="" class="img-fluid radius-image" />
                     </div>
                     <div class="col-lg-6 mt-lg-0 mt-5 align-self">
                         <h6 class="title-small">Why us</h6>
-                        <h3 class="title-big">To help members become more profitable and successful</h3>
+                        <h3 class="title-big">@Model.SettingVMs.Find(s => s.Key == "WhyUsName").Value</h3>
                         <p class="mt-4">
-                            We have over 15 year experience in business consulting arena. Learn more about our work!
-                            Lorem ipsum viverra feugiat. Pellen tesque libero ut justo,
-                            ultrices in ligula. Semper at tempufddfel
+                            @Model.SettingVMs.Find(s => s.Key == "WhyUsContent").Value
                         </p>
                         <ul class="w3l-right-book mt-lg-5 mt-4">
-                            <li><span class="fa fa-check" aria-hidden="true"></span>Help sellers get the most for their properties</li>
-                            <li><span class="fa fa-check" aria-hidden="true"></span>Help sellers price their properties fairly</li>
-                            <li><span class="fa fa-check" aria-hidden="true"></span>Help buyers find the property that fits their needs</li>
-                            <li><span class="fa fa-check" aria-hidden="true"></span>Avoid over paying by strategically negotiating purchase</li>
+                            <li><span class="fa fa-check" aria-hidden="true"></span>@Model.SettingVMs.Find(s => s.Key == "WhyUsInfo1").Value</li>
+                            <li><span class="fa fa-check" aria-hidden="true"></span>@Model.SettingVMs.Find(s => s.Key == "WhyUsInfo2").Value</li>
+                            <li><span class="fa fa-check" aria-hidden="true"></span>@Model.SettingVMs.Find(s => s.Key == "WhyUsInfo3").Value</li>
+                            <li><span class="fa fa-check" aria-hidden="true"></span>@Model.SettingVMs.Find(s => s.Key == "WhyUsInfo4").Value</li>
                         </ul>
                     </div>
                 </div>
@@ -112,92 +108,31 @@
             <h3 class="title-big text-center mb-lg-5 mb-4">Meet our Agents</h3>
             <!-- block -->
             <div class="row">
-                <div class="col-lg-3 col-sm-6 column-item">
-                    <div class="users_box">
-                        <div class="user-avatar">
-                            <a href="#agent-single" class="avatar">
-                                <img src="~/starter/assets/images/team1.jpg" alt="" class="img-fluid w-100 radius-image">
-                            </a>
-                        </div>
-                        <div class="users_box_info">
-                            <p class="user_position">Selling Agent</p>
-                            <h4 class="user_title agent">
-                                <a href="#agent-single">Laura Antiochus</a>
-                            </h4>
-                            <div class="user_meta user_phone">
-                                <span class="phone-detail"> <a href="tel:+1-2345-678-11">+1-2345-678-11</a></span>
+                @foreach (var employee in Model.EmployeeVMs)
+                {
+                    <div class="col-lg-3 col-sm-6 column-item @count++>0?'mt-sm-0 mt-5':''">
+                        <div class="users_box">
+                            <div class="user-avatar">
+                                <a href="#agent-single" class="avatar">
+                                    <img src=@employee.ImageUrl alt="" class="img-fluid w-100 radius-image">
+                                </a>
                             </div>
-                            <a href="#agent-single" class="btn btn-outline-primary btn-style mt-4">
-                                View Profile
-                            </a>
+                            <div class="users_box_info">
+                                <p class="user_position">@employee.Position</p>
+                                <h4 class="user_title agent">
+                                    <a href="#agent-single">@employee.Name</a>
+                                </h4>
+                                <div class="user_meta user_phone">
+                                    <span class="phone-detail"> <a href="tel:@employee.PhoneNumber">@employee.PhoneNumber</a></span>
+                                </div>
+                                <a href="#agent-single" class="btn btn-outline-primary btn-style mt-4">
+                                    View Profile
+                                </a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 column-item mt-sm-0 mt-5">
-                    <div class="users_box">
-                        <div class="user-avatar">
-                            <a href="#agent-single" class="avatar">
-                                <img src="~/starter/assets/images/team2.jpg" alt="" class="img-fluid w-100 radius-image">
-                            </a>
-                        </div>
-                        <div class="users_box_info">
-                            <p class="user_position">Selling Agent</p>
-                            <h4 class="user_title agent">
-                                <a href="#agent-single">Laura Antiochus</a>
-                            </h4>
-                            <div class="user_meta user_phone">
-                                <span class="phone-detail"> <a href="tel:+1-2345-678-11">+1-2345-678-11</a></span>
-                            </div>
+                }
 
-                            <a href="#agent-single" class="btn btn-outline-primary btn-style mt-4">
-                                View Profile
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 column-item mt-lg-0 mt-5">
-                    <div class="users_box">
-                        <div class="user-avatar">
-                            <a href="#agent-single" class="avatar">
-                                <img src="~/starter/assets/images/team3.jpg" alt="" class="img-fluid w-100 radius-image">
-                            </a>
-                        </div>
-                        <div class="users_box_info">
-                            <p class="user_position">Selling Agent</p>
-                            <h4 class="user_title agent">
-                                <a href="#agent-single">Laura Antiochus</a>
-                            </h4>
-                            <div class="user_meta user_phone">
-                                <span class="phone-detail"> <a href="tel:+1-2345-678-11">+1-2345-678-11</a></span>
-                            </div>
-                            <a href="#agent-single" class="btn btn-outline-primary btn-style mt-4">
-                                View Profile
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 column-item mt-lg-0 mt-5">
-                    <div class="users_box">
-                        <div class="user-avatar">
-                            <a href="#agent-single" class="avatar">
-                                <img src="~/starter/assets/images/team4.jpg" alt="" class="img-fluid w-100 radius-image">
-                            </a>
-                        </div>
-                        <div class="users_box_info">
-                            <p class="user_position">Selling Agent</p>
-                            <h4 class="user_title agent">
-                                <a href="#agent-single">Laura Antiochus</a>
-                            </h4>
-                            <div class="user_meta user_phone">
-                                <span class="phone-detail"> <a href="tel:+1-2345-678-11">+1-2345-678-11</a></span>
-                            </div>
-
-                            <a href="#agent-single" class="btn btn-outline-primary btn-style mt-4">
-                                View Profile
-                            </a>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
