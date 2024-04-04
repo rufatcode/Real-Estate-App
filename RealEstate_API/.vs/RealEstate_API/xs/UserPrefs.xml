@@ -1,4 +1,7 @@
 ﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
       <Items>
@@ -7,21 +10,13 @@
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
-  <MonoDevelop.Ide.ItemProperties.RealEstate__UI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.RealEstate__API PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RealEstate_UI/Controllers/AboutController.cs">
+  <MonoDevelop.Ide.ItemProperties.RealEstate__UI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RealEstate_API/Dtos/ProductDtos/CreateProductDto.cs">
     <Files>
-      <File FileName="RealEstate_API/ServiceRegistration.cs" Line="31" Column="120" />
-      <File FileName="RealEstate_API/DAL/DataContext.cs" Line="16" Column="1" />
-      <File FileName="RealEstate_UI/Controllers/HomeController.cs" Line="26" Column="101" />
-      <File FileName="RealEstate_UI/Views/About/Index.cshtml" Line="135" Column="1" />
-      <File FileName="RealEstate_UI/ViewModels/AboutVM.cs" Line="14" Column="24" />
-      <File FileName="RealEstate_UI/Controllers/AboutController.cs" Line="29" Column="13" />
+      <File FileName="RealEstate_API/Dtos/ProductDtos/CreateProductDto.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -29,24 +24,22 @@
           <Node name="RealEstate_API" expanded="True">
             <Node name="RealEstate_API">
               <Node name="Controllers" expanded="True" />
-              <Node name="DAL" expanded="True" />
               <Node name="Dtos" expanded="True">
-                <Node name="EmployeDtos" expanded="True" />
+                <Node name="ContactDtos" expanded="True" />
+                <Node name="ProductDtos" expanded="True" selected="True" />
               </Node>
               <Node name="Repositories" expanded="True">
-                <Node name="EmployeRepository" expanded="True" />
                 <Node name="SettingRepository" expanded="True" />
               </Node>
-              <Node name="Services" expanded="True" />
-              <Node name="Validators" expanded="True" />
+              <Node name="Validators" expanded="True">
+                <Node name="ContactValidators" expanded="True" />
+              </Node>
             </Node>
             <Node name="RealEstate_UI">
-              <Node name="Controllers" expanded="True">
-                <Node name="AboutController.cs" selected="True" />
-              </Node>
               <Node name="ViewComponents" expanded="True" />
-              <Node name="ViewModels" expanded="True">
-                <Node name="SettingVM" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views">
+                <Node name="About" expanded="True" />
               </Node>
             </Node>
           </Node>

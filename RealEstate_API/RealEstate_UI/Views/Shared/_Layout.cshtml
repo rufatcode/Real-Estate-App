@@ -16,9 +16,9 @@
 </head>
 <body>
 
-@await Component.InvokeAsync("Header");
+    @await Component.InvokeAsync("Header");
     @RenderBody()
-@await Component.InvokeAsync("Footer");
+    @await Component.InvokeAsync("Footer");
 
     <!-- jQuery and Bootstrap JS -->
     <script src="~/starter/assets/js/jquery-3.3.1.min.js"></script>
@@ -154,6 +154,7 @@
     <!-- //MENU-JS -->
     <!-- bootstrap -->
     <script src="~/starter/assets/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     @RenderSection("CostumScript", false)
 </body>
 

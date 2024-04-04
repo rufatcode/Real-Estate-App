@@ -21,9 +21,9 @@ namespace RealEstate_API.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult>Post(CreateContactDto createContactDto)
+        public async Task<IActionResult>Post([FromBody]CreateContactDto createContactDto)
         {
-            if (!ModelState.IsValid) return BadRequest(ModelState);
+            if (!ModelState.IsValid) return BadRequest("Something went wrong");
             await _contactRepository.Create(createContactDto);
             return Ok($"{createContactDto.Name} your session successfully sended");
         }
@@ -37,15 +37,29 @@ namespace RealEstate_API.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            List<ResoultContactDto> datas = await _contactRepository.GetAllCategoryAsync();
+            List<ResoultContactDto> datas = await _contactRepository.GetAllContactAsync();
             if (datas.Count == 0) return NotFound("emtpy data list");
             return Ok(datas);
         }
         [HttpGet("{id}")]
         public async Task<IActionResult>Get(int id)
         {
-            ResoultContactDto data = await _contactRepository.GetCategoryById(id);
+            ResoultContactDto data = await _contactRepository.GetContactById(id);
             if (data == null) return NotFound("data is not exist");            
+            return Ok(data);
+        }
+        [HttpGet("GetByAdmin")]
+        public async Task<IActionResult> GetByAdmin()
+        {
+            List<ResoultContactDto> datas = await _contactRepository.GetAllContactByAdminAsync();
+            if (datas.Count == 0) return NotFound("emtpy data list");
+            return Ok(datas);
+        }
+        [HttpGet("GetByAdmin/{id}")]
+        public async Task<IActionResult> GetByAdmin(int id)
+        {
+            ResoultContactDto data = await _contactRepository.GetContactByAdmin(id);
+            if (data == null) return NotFound("data is not exist");
             return Ok(data);
         }
         [HttpPut]

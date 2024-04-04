@@ -53,6 +53,22 @@ namespace RealEstate_API.Controllers
 
             return Ok(data);
         }
+        [HttpGet("GetByAdmin")]
+        public async Task<IActionResult> GetByAdmin()
+        {
+            var datas = await _employeRepository.GetAllByAdmin();
+            if (datas.Count == 0) return NotFound("empty data list");
+
+            return Ok(datas);
+        }
+        [HttpGet("GetByAdmin/{Id}")]
+        public async Task<IActionResult> GetByAdmin(int Id)
+        {
+            var data = await _employeRepository.GetEmployeByAdmin(Id);
+            if (data == null) return NotFound("data is not exist");
+
+            return Ok(data);
+        }
         [HttpDelete("{id}")]
         public async Task<IActionResult>Delete(int id)
         {

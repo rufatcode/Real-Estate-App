@@ -9,7 +9,9 @@ namespace RealEstate_API.Repositories.SettingRepository
 		Task<int> Update(UpdateSettingDto updateSettingDto);
 		Task<int> Delete(int id);
 		Task<List<ResoultSettingDto>> Get();
-		Task<ResoultSettingDto> Get(int id);
+        Task<List<ResoultSettingDto>> GetByAdmin();
+        Task<ResoultSettingDto> GetByAdmin(int id);
+        Task<ResoultSettingDto> Get(int id);
     }
 }
 

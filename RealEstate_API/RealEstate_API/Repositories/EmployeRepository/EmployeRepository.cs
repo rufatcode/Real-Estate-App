@@ -45,20 +45,45 @@ namespace RealEstate_API.Repositories.EmployeRepository
 
         public async Task<List<ResoultEmployeDto>> GetAll()
         {
-            string query = "select*from Employees";
-            using(var connection = _dataContext.CreateConnection())
+            string query = "select*from Employees where IsDeleted=@IsDeleted";
+            DynamicParameters dynamicParameters = new();
+            dynamicParameters.Add("@IsDeleted", false);
+            using (var connection = _dataContext.CreateConnection())
             {
-                var datas =await connection.QueryAsync<ResoultEmployeDto>(query);
+                var datas =await connection.QueryAsync<ResoultEmployeDto>(query,dynamicParameters);
                 return datas.ToList();
+            }
+        }
+
+        public async Task<List<ResoultEmployeDto>> GetAllByAdmin()
+        {
+            string query = "select*from Employees";
+            using (var connection = _dataContext.CreateConnection())
+            {
+                var datas = await connection.QueryAsync<ResoultEmployeDto>(query);
+                return datas.ToList();
+            }
+        }
+
+        public async Task<ResoultEmployeDto> GetEmployeByAdmin(int id)
+        {
+            string query = "select*from Employees where Id=@id";
+            DynamicParameters dynamicParameters = new();
+            dynamicParameters.Add("@id", id);
+            using (var connection = _dataContext.CreateConnection())
+            {
+                return await connection.QueryFirstOrDefaultAsync<ResoultEmployeDto>(query, dynamicParameters);
+
             }
         }
 
         public async Task<ResoultEmployeDto> GetEmployeById(int id)
         {
-            string query = "select*from Employees where id=@id";
+            string query = "select*from Employees where Id=@id and IsDeleted=@IsDeleted";
             DynamicParameters dynamicParameters = new();
             dynamicParameters.Add("@id", id);
-            using(var connection = _dataContext.CreateConnection())
+            dynamicParameters.Add("@IsDeleted", false);
+            using (var connection = _dataContext.CreateConnection())
             {
                return await connection.QueryFirstOrDefaultAsync<ResoultEmployeDto>(query, dynamicParameters);
                

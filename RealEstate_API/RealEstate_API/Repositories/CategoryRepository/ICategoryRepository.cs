@@ -6,9 +6,11 @@ namespace RealEstate_API.Repositories.CategoryRepository
 	public interface ICategoryRepository
 	{
 		Task<List<ResoultCategoryDto>> GetAllCategoryAsync();
-		Task<ResoultCategoryDto> GetCategoryById(int id);
-		Task Create(CreateCategoryDto createCategoryDto);
-		Task Delete(int id);
+		Task<List<ResoultCategoryDto>> GetAllCategoryByAdminAsync();
+        Task<ResoultCategoryDto> GetCategoryByAdmin(int id);
+        Task<ResoultCategoryDto> GetCategoryById(int id);
+        Task Create(CreateCategoryDto createCategoryDto);
+		Task<int> Delete(int id);
 		Task Update(UpdateCategoryDto updateCategoryDto);
 	}
 }

@@ -41,23 +41,26 @@ namespace RealEstate_API.Repositories.ContactRepository
             }
         }
 
-        public async Task<List<ResoultContactDto>> GetAllCategoryAsync()
+        public async Task<List<ResoultContactDto>> GetAllContactAsync()
         {
-            string query = "select*from contact";
+            string query = "select*from contact where IsDeleted=@IsDeleted";
+            DynamicParameters dynamicParameters = new();
+            dynamicParameters.Add("@IsDeleted", false);
             using(var connection = _dataContext.CreateConnection())
             {
-                var datas = await connection.QueryAsync<ResoultContactDto>(query);
+                var datas = await connection.QueryAsync<ResoultContactDto>(query,dynamicParameters);
                 return datas.ToList();
             }
             
         }
 
-        public async Task<ResoultContactDto> GetCategoryById(int id)
+        public async Task<ResoultContactDto> GetContactById(int id)
         {
-            string query = "select*from contact where id=@contactId";
+            string query = "select*from contact where id=@contactId and IsDeleted=@IsDeleted";
             DynamicParameters dynamicParameters = new();
             dynamicParameters.Add("@contactId", id);
-            using(var connection = _dataContext.CreateConnection())
+            dynamicParameters.Add("@IsDeleted", false);
+            using (var connection = _dataContext.CreateConnection())
             {
                 return await connection.QueryFirstOrDefaultAsync<ResoultContactDto>(query,dynamicParameters);
                  
@@ -78,6 +81,28 @@ namespace RealEstate_API.Repositories.ContactRepository
             using (var connection = _dataContext.CreateConnection())
             {
                 return await connection.ExecuteAsync(query, dynamicParameters);
+            }
+        }
+
+        public async Task<List<ResoultContactDto>> GetAllContactByAdminAsync()
+        {
+            string query = "select*from contact";
+            using (var connection = _dataContext.CreateConnection())
+            {
+                var datas = await connection.QueryAsync<ResoultContactDto>(query);
+                return datas.ToList();
+            }
+        }
+
+        public async Task<ResoultContactDto> GetContactByAdmin(int id)
+        {
+            string query = "select*from contact where id=@contactId";
+            DynamicParameters dynamicParameters = new();
+            dynamicParameters.Add("@contactId", id);
+            using (var connection = _dataContext.CreateConnection())
+            {
+                return await connection.QueryFirstOrDefaultAsync<ResoultContactDto>(query, dynamicParameters);
+
             }
         }
     }

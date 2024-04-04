@@ -9,7 +9,9 @@ namespace RealEstate_API.Repositories.EmployeRepository
 		Task<int> UpdateEmploye(UpdateEmployeDto updateEmployeDto);
 		Task<int> Delete(int id);
 		Task<ResoultEmployeDto> GetEmployeById(int id);
-		Task<List<ResoultEmployeDto>> GetAll();
+        Task<ResoultEmployeDto> GetEmployeByAdmin(int id);
+        Task<List<ResoultEmployeDto>> GetAllByAdmin();
+        Task<List<ResoultEmployeDto>> GetAll();
 
 	}
 }

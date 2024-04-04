@@ -47,6 +47,20 @@ namespace RealEstate_API.Controllers
             if (data==null) return NotFound("data is not exist");
             return Ok(data);
         }
+        [HttpGet("GetByAdmin")]
+        public async Task<IActionResult> GetByAdmin()
+        {
+            var datas = await _settingRepository.GetByAdmin();
+            if (datas.Count == 0) return BadRequest("empty data list");
+            return Ok(datas);
+        }
+        [HttpGet("GetByAdmin/{Id}")]
+        public async Task<IActionResult> GetByAdmin(int Id)
+        {
+            var data = await _settingRepository.GetByAdmin(Id);
+            if (data == null) return NotFound("data is not exist");
+            return Ok(data);
+        }
         [HttpPut("{Id}")]
         public async Task<IActionResult>Put(UpdateSettingDto updateSettingDto)
         {

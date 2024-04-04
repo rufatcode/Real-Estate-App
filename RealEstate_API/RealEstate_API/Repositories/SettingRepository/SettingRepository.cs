@@ -42,21 +42,44 @@ namespace RealEstate_API.Repositories.SettingRepository
 
         public async Task<List<ResoultSettingDto>> Get()
         {
-            string query = "select*from Setting";
-            using(var connection = _dataContext.CreateConnection())
+            string query = "select*from Setting where isDeleted=@isDeleted";
+            DynamicParameters dynamicParameters = new();
+            dynamicParameters.Add("@isDeleted", false);
+            using (var connection = _dataContext.CreateConnection())
             {
-               return (await connection.QueryAsync<ResoultSettingDto>(query)).ToList();
+               return (await connection.QueryAsync<ResoultSettingDto>(query,dynamicParameters)).ToList();
             }
         }
 
         public async Task<ResoultSettingDto> Get(int id)
         {
+            string query = "select*from Setting where id=@id and isDeleted=@isDeleted";
+            DynamicParameters dynamicParameters = new();
+            dynamicParameters.Add("@id", id);
+            dynamicParameters.Add("@isDeleted", false);
+            using (var connection = _dataContext.CreateConnection())
+            {
+                return await connection.QueryFirstOrDefaultAsync<ResoultSettingDto>(query,dynamicParameters);
+            }
+        }
+
+        public async Task<List<ResoultSettingDto>> GetByAdmin()
+        {
+            string query = "select*from Setting";
+            using (var connection = _dataContext.CreateConnection())
+            {
+                return (await connection.QueryAsync<ResoultSettingDto>(query)).ToList();
+            }
+        }
+
+        public async Task<ResoultSettingDto> GetByAdmin(int id)
+        {
             string query = "select*from Setting where id=@id";
             DynamicParameters dynamicParameters = new();
             dynamicParameters.Add("@id", id);
-            using(var connection = _dataContext.CreateConnection())
+            using (var connection = _dataContext.CreateConnection())
             {
-                return await connection.QueryFirstOrDefaultAsync<ResoultSettingDto>(query,dynamicParameters);
+                return await connection.QueryFirstOrDefaultAsync<ResoultSettingDto>(query, dynamicParameters);
             }
         }
 

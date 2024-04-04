@@ -26,7 +26,7 @@ namespace RealEstate_API.Repositories.CategoryRepository
             }
         }
 
-        public async Task Delete(int id)
+        public async Task<int> Delete(int id)
         {
             string query = "update  category set isDeleted=@isDeleted,deletedAt=@deletedAt where id=@categoryId";
             DynamicParameters parameters = new();
@@ -35,26 +35,48 @@ namespace RealEstate_API.Repositories.CategoryRepository
             parameters.Add("@deletedAt", DateTime.Now);
             using (var connection = _dataContext.CreateConnection())
             {
-                await connection.ExecuteAsync(query, parameters);
+               return await connection.ExecuteAsync(query, parameters);
             }
         }
-
-        public async Task<List<ResoultCategoryDto>> GetAllCategoryAsync()
+        public async Task<List<ResoultCategoryDto>> GetAllCategoryByAdminAsync()
         {
             string query = "Select*From Category";
-            using(var connection = _dataContext.CreateConnection())
+            using (var connection = _dataContext.CreateConnection())
             {
                 var data = await connection.QueryAsync<ResoultCategoryDto>(query);
                 return data.ToList();
             };
         }
 
-        public async Task<ResoultCategoryDto> GetCategoryById(int id)
+        public async Task<ResoultCategoryDto> GetCategoryByAdmin(int id)
         {
-            string query = "select*from category where id=@cateoryId";
+            string query = "select*from category where Id=@cateoryId";
             DynamicParameters parametrs = new DynamicParameters();
             parametrs.Add("@cateoryId", id);
-            using(var connection = _dataContext.CreateConnection())
+            using (var connection = _dataContext.CreateConnection())
+            {
+                return await connection.QueryFirstOrDefaultAsync<ResoultCategoryDto>(query, parametrs);
+            }
+        }
+        public async Task<List<ResoultCategoryDto>> GetAllCategoryAsync()
+        {
+            string query = "Select*From Category where IsDeleted=@IsDeleted";
+            DynamicParameters parametrs = new DynamicParameters();
+            parametrs.Add("@IsDeleted", false);
+            using (var connection = _dataContext.CreateConnection())
+            {
+                var data = await connection.QueryAsync<ResoultCategoryDto>(query, parametrs);
+                return data.ToList();
+            };
+        }
+
+        public async Task<ResoultCategoryDto> GetCategoryById(int id)
+        {
+            string query = "select*from category where Id=@cateoryId and IsDeleted=@IsDeleted";
+            DynamicParameters parametrs = new DynamicParameters();
+            parametrs.Add("@cateoryId", id);
+            parametrs.Add("@IsDeleted", false);
+            using (var connection = _dataContext.CreateConnection())
             {
                 return await connection.QueryFirstOrDefaultAsync<ResoultCategoryDto>(query, parametrs);
             }

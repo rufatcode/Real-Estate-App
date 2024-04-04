@@ -277,4 +277,6 @@ select*from  Employees
 SELECT*FROM Setting
 
 
+select*from Product
+
 

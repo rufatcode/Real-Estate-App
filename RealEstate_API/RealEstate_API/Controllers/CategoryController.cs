@@ -29,6 +29,17 @@ namespace RealEstate_API.Controllers
         {
             return Ok(await _categoryRepository.GetCategoryById(id));
         }
+        [HttpGet("GetByAdmin")]
+        public async Task<IActionResult> GetByAdmin()
+        {
+            var resoult = await _categoryRepository.GetAllCategoryByAdminAsync();
+            return Ok(resoult);
+        }
+        [HttpGet("GetByAdmin/{id}")]
+        public async Task<IActionResult> GetByAdmin(int id)
+        {
+            return Ok(await _categoryRepository.GetCategoryByAdmin(id));
+        }
         [HttpPost]
         public async Task<IActionResult>Post(CreateCategoryDto createCategoryDto)
         {
@@ -39,7 +50,8 @@ namespace RealEstate_API.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult>Delete(int id)
         {
-            await _categoryRepository.Delete(id);
+           var resoult= await _categoryRepository.Delete(id);
+            if (resoult == 0) return BadRequest();
             return Ok("Deleted successfully finshed");
         }
         [HttpPut]

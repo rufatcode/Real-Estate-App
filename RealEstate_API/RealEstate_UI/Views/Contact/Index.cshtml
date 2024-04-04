@@ -1,6 +1,7 @@
 ﻿@{
     ViewBag.Title = "Contact";
 }
+@model ContactVM
 @section CostumStyle{
 
 }
@@ -29,50 +30,57 @@
                         <div class="contact-form">
                             <h5 class="mb-2">Get in touch</h5>
                             <p class="mb-4">Your email address will not be published. Required fields are marked *</p>
-                            <form action="https://sendmail.w3layouts.com/submitForm" method="post" class="">
+                            @using (Html.BeginForm("ContactRequest", "Contact", FormMethod.Post))
+                            {
                                 <div class="form-grid">
                                     <div class="input-field">
-                                        <input type="text" name="w3lName" id="w3lName" placeholder="Your Name"
+                                        <input type="text" name="name" id="w3lName" placeholder="Your Name"
                                                required="">
                                     </div>
                                     <div class="input-field">
-                                        <input type="email" name="w3lSender" id="w3lSender" placeholder="Email"
+                                        <input type="email" name="email" id="w3lSender" placeholder="Email"
                                                required="">
                                     </div>
                                 </div>
                                 <div class="input-field mt-4">
-                                    <textarea name="w3lMessage" id="w3lMessage" placeholder="Message"></textarea>
+                                    <textarea name="message" id="w3lMessage" placeholder="Message"></textarea>
                                 </div>
                                 <input type="checkbox"> <label>
                                     Save my name, email, and website in this
                                     browser for the next time I comment
                                 </label>
                                 <button type="submit" class="btn btn-primary btn-style mt-3">Submit</button>
-                            </form>
+                            }
+                            @if (@TempData["Info"] != null)
+                                {
+                                    <div class="alert alert-success mt-3" id="success-alert">
+                                        <button type="button" class="close" data-dismiss="alert">x</button>
+                                        <strong>Success! </strong>@TempData["Info"]
+                                    </div>
+                                }
                         </div>
                     </div>
                     <div class="col-lg-4 cont-details">
                         <address>
                             <h5 class="">Our Office Address</h5>
                             <p>
-                                <span class="fa fa-map-marker"></span>Estate sale office, 32, My Street, Kingston,
-                                New York 12401.
+                                <span class="fa fa-map-marker"></span>@Model.SettingVMs.FirstOrDefault(s=>s.Key== "Address").Value
                             </p>
 
                             <h5 class="mt-4 pt-lg-3">Phone informatiom</h5>
                             <p>
                                 <span class="fa fa-mobile"></span> <strong>Phone :</strong>
-                                <a href="tel:+1(12) 366 411 4999"> (+1) 366 411 499</a>
+                                                                   <a href="tel:@Model.SettingVMs.FirstOrDefault(s => s.Key == "Phone").Value"> @Model.SettingVMs.FirstOrDefault(s => s.Key == "Phone").Value</a>
                             </p>
 
                             <p>
                                 <span class="fa fa-phone"></span> <strong>Tel :</strong>
-                                <a href="tel:+1(12) 366 411 4999"> (+1) 366 411 499</a>
+                                                                  <a href="tel:@Model.SettingVMs.FirstOrDefault(s => s.Key == "Tel").Value"> @Model.SettingVMs.FirstOrDefault(s => s.Key == "Tel").Value</a>
                             </p>
 
                             <p>
                                 <span class="fa fa-envelope"></span> <strong>Email :</strong>
-                                <a href="mailto:mail@example.com"> mail@example.com</a>
+                                                                     <a href="mailto:@Model.SettingVMs.FirstOrDefault(s => s.Key == "Email").Value"> @Model.SettingVMs.FirstOrDefault(s => s.Key == "Email").Value</a>
                             </p>
                         </address>
                     </div>
@@ -80,7 +88,7 @@
             </div>
         </div>
         <div class="map mt-5">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387190.2895687731!2d-74.26055986835598!3d40.697668402590374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sin!4v1562582305883!5m2!1sen!2sin"
+            <iframe src="@Model.SettingVMs.FirstOrDefault(s => s.Key == "Iframe").Value"
                     frameborder="0" style="border:0" allowfullscreen=""></iframe>
         </div>
     </div>
